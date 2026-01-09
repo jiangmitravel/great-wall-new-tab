@@ -16,7 +16,7 @@ Transform your Chrome new tab with breathtaking photography of the Great Wall of
 - 10 high-quality images showcasing the Great Wall across different seasons
 - Random background selection for variety
 - Clean, minimal interface with time display
-- Integrated Google search
+- Clean, distraction-free interface
 - Fast and lightweight
 - No data collection or tracking
 

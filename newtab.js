@@ -60,23 +60,6 @@ function updateTime() {
     }
 }
 
-// Search box focus shortcut
-function setupSearchShortcut() {
-    const searchInput = document.getElementById('search-input');
-
-    document.addEventListener('keydown', (e) => {
-        // Press / key to focus search box
-        if (e.key === '/' && document.activeElement !== searchInput) {
-            e.preventDefault();
-            searchInput.focus();
-        }
-
-        // Press Esc key to blur search box
-        if (e.key === 'Escape' && document.activeElement === searchInput) {
-            searchInput.blur();
-        }
-    });
-}
 
 // Initialization
 document.addEventListener('DOMContentLoaded', () => {
@@ -86,7 +69,4 @@ document.addEventListener('DOMContentLoaded', () => {
     // Update time
     updateTime();
     setInterval(updateTime, 1000); // Update every second
-
-    // Set search shortcut
-    setupSearchShortcut();
 });

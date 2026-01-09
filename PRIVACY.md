@@ -23,7 +23,7 @@ This extension:
 This extension only modifies the visual appearance of your Chrome browser:
 - Displays Great Wall of China background images on new tab pages
 - Shows current time and date
-- Provides a Google search box (standard Chrome feature)
+- Clean, distraction-free interface
 
 All images and assets are included in the extension package and stored locally on your device. The extension works completely offline after installation.
 

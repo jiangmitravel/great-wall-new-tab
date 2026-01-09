@@ -8,7 +8,7 @@ Transform your browser’s new tab with inspiring views of the Great Wall of Chi
 
 - 🖼️ **10 Curated Images** – A selection of high-quality visuals inspired by the Great Wall of China, spanning different seasons and times of day
 - 🎲 **Random Backgrounds** – Each new tab displays a different view
-- 🕐 **Clean Interface** – Time display and Google search integration
+- 🕐 **Clean Interface** – Time display
 - ⚡ **Lightweight** – No background scripts, fast and efficient
 - 🔒 **Privacy Focused** – No data collection, no permissions required
 
@@ -30,21 +30,24 @@ Transform your browser’s new tab with inspiring views of the Great Wall of Chi
 Every time you open a new tab:
 - A randomly selected Great Wall background image
 - Current time and date
-- Google search bar
 - Minimal, distraction-free layout
 
 ## Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/screenshot_1280x800.png" alt="Great Wall New Tab - Sunset View" width="800">
+  <img src="docs/screenshots/screenshot_1280x800_1.jpg" alt="Great Wall New Tab - Theme 1" width="600">
+  <img src="docs/screenshots/screenshot_1280x800_2.jpg" alt="Great Wall New Tab - Theme 2" width="600">
+  <img src="docs/screenshots/screenshot_1280x800_3.jpg" alt="Great Wall New Tab - Theme 3" width="600">
+  <img src="docs/screenshots/screenshot_1280x800_4.jpg" alt="Great Wall New Tab - Theme 4" width="600">
+  <img src="docs/screenshots/screenshot_1280x800_5.jpg" alt="Great Wall New Tab - Theme 5" width="600">
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/promo_1400x560.png" alt="Great Wall New Tab - Mountain View" width="700">
+  <img src="docs/screenshots/promo_1400x560.jpg" alt="Great Wall New Tab - Mountain View" width="700">
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/promo_440x280.png" alt="Great Wall New Tab - Twilight View" width="440">
+  <img src="docs/screenshots/promo_440x280.jpg" alt="Great Wall New Tab - Twilight View" width="440">
 </p>
 
 
