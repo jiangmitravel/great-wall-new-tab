@@ -2,6 +2,8 @@
 
 Transform your browser’s new tab with inspiring views of the Great Wall of China.
 
+**[🌐 Live Demo](https://jiangmitravel.github.io/great-wall-new-tab/)** | **[📦 GitHub Repository](https://github.com/jiangmitravel/great-wall-new-tab)**
+
 ## Features
 
 - 🖼️ **10 Curated Images** – A selection of high-quality visuals inspired by the Great Wall of China, spanning different seasons and times of day
