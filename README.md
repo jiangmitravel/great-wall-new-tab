@@ -31,6 +31,21 @@ Every time you open a new tab:
 - Google search bar
 - Minimal, distraction-free layout
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/screenshot_1280x800.png" alt="Great Wall New Tab - Sunset View" width="800">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/promo_1400x560.png" alt="Great Wall New Tab - Mountain View" width="700">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/promo_440x280.png" alt="Great Wall New Tab - Twilight View" width="440">
+</p>
+
+
 ## Images
 
 The background images featured in this extension are a curated mix of **original photography and AI-generated visuals**, created and selected specifically for this project.
