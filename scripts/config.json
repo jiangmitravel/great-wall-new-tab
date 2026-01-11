@@ -1,0 +1,29 @@
+{
+    "platforms": {
+        "chrome": {
+            "PLATFORM_NAME": "Chrome",
+            "PLATFORM_FULL": "Chrome Extension",
+            "BROWSER_NAME": "Chrome browser",
+            "STORE_NAME": "Chrome Web Store",
+            "STORE_POLICY": "Chrome Web Store Developer Program Policies",
+            "STORE_URL": "chrome://extensions/",
+            "output_dir": "build/chrome"
+        },
+        "edge": {
+            "PLATFORM_NAME": "Browser",
+            "PLATFORM_FULL": "Browser Extension",
+            "BROWSER_NAME": "browser",
+            "STORE_NAME": "extension store",
+            "STORE_POLICY": "Browser Extension Store Developer Program Policies",
+            "STORE_URL": "edge://extensions/",
+            "output_dir": "build/edge"
+        }
+    },
+    "version": "1.0.0",
+    "exclude_patterns": [
+        "*.DS_Store",
+        "*.git*",
+        ".gitignore",
+        "*.template.*"
+    ]
+}
