@@ -1,10 +1,10 @@
-# Chrome Extension Privacy Policy - Great Wall New Tab Theme
+# Browser Extension Privacy Policy - Great Wall New Tab Theme
 
 **Last Updated**: January 8, 2026
 
 ## Overview
 
-This privacy policy applies specifically to the **Great Wall of China Travel - New Tab Theme** Chrome browser extension. This extension is a simple visual theme that changes your new tab page appearance.
+This privacy policy applies specifically to the **Great Wall of China Travel - New Tab Theme** browser extension. This extension is a simple visual theme that changes your new tab page appearance.
 
 ## Data Collection
 
@@ -20,7 +20,7 @@ This extension:
 
 ## What This Extension Does
 
-This extension only modifies the visual appearance of your Chrome browser:
+This extension only modifies the visual appearance of your browser:
 - Displays Great Wall of China background images on new tab pages
 - Shows current time and date
 - Clean, distraction-free interface
@@ -44,12 +44,12 @@ This extension requires **zero permissions**. It cannot and does not:
 Please note: This privacy policy is separate from our [website privacy policy](https://greatwalltravelguide.com/privacy-policy/). 
 
 - **Website**: May collect analytics data, use cookies, and track visitor behavior
-- **Chrome Extension**: Collects absolutely no data and works completely offline
+- **Browser Extension**: Collects absolutely no data and works completely offline
 
 ## Compliance
 
 This extension complies with:
-- Chrome Web Store Developer Program Policies
+- Browser Extension Store Developer Program Policies
 - GDPR (General Data Protection Regulation)
 - CCPA (California Consumer Privacy Act)
 
@@ -59,7 +59,7 @@ We may update this privacy policy from time to time. Any changes will be reflect
 
 ## Contact
 
-For questions about this privacy policy, please contact us through the Chrome Web Store support page or visit [greatwalltravelguide.com](https://greatwalltravelguide.com/).
+For questions about this privacy policy, please contact us through the extension store support page or visit [greatwalltravelguide.com](https://greatwalltravelguide.com/).
 
 ---
 
