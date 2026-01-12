@@ -2,7 +2,7 @@
 
 Transform your browser’s new tab with inspiring views of the Great Wall of China.
 
-**[🌐 Live Demo](https://jiangmitravel.github.io/great-wall-new-tab/)** | **[📦 GitHub Repository](https://github.com/jiangmitravel/great-wall-new-tab)**
+**[🌐 Live Demo](https://jiangmitravel.github.io/great-wall-new-tab/)** | **[🛒 Chrome Web Store](https://chromewebstore.google.com/detail/great-wall-of-china-trave/bkbbicbfenfilfijfboclidhmnckpbeo)** | **[📦 GitHub Repository](https://github.com/jiangmitravel/great-wall-new-tab)**
 
 ## Features
 
@@ -15,7 +15,8 @@ Transform your browser’s new tab with inspiring views of the Great Wall of Chi
 ## Installation
 
 ### From Chrome Web Store
-*Coming soon*
+
+**[⬇️ Install from Chrome Web Store](https://chromewebstore.google.com/detail/great-wall-of-china-trave/bkbbicbfenfilfijfboclidhmnckpbeo)**
 
 ### Manual Installation
 
@@ -37,9 +38,6 @@ Every time you open a new tab:
 <p align="center">
   <img src="docs/screenshots/screenshot_1280x800_1.jpg" alt="Great Wall New Tab - Theme 1" width="600">
   <img src="docs/screenshots/screenshot_1280x800_2.jpg" alt="Great Wall New Tab - Theme 2" width="600">
-  <img src="docs/screenshots/screenshot_1280x800_3.jpg" alt="Great Wall New Tab - Theme 3" width="600">
-  <img src="docs/screenshots/screenshot_1280x800_4.jpg" alt="Great Wall New Tab - Theme 4" width="600">
-  <img src="docs/screenshots/screenshot_1280x800_5.jpg" alt="Great Wall New Tab - Theme 5" width="600">
 </p>
 
 <p align="center">
